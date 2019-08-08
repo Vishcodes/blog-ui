@@ -7,6 +7,7 @@
 /src/action
 /src/reducers
 /src/store
+/src/components
 
 # testing
 /coverage
